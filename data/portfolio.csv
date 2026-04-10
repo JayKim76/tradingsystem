@@ -1,0 +1,13 @@
+ticker,company_name,market,holding_status,quantity,avg_cost,currency,target_weight,thesis,risk_notes,priority
+005930,삼성전자,KRX,HOLD,800,68500,KRW,0.12,HBM·파운드리 회복 시 실적 레버리지. 저PBR 바닥권,재고 과잉·파운드리 경쟁 심화 시 실적 하향,1
+000660,SK하이닉스,KRX,HOLD,120,168000,KRW,0.10,HBM3E 독점적 공급. AI 인프라 수요 직접 수혜,사이클 하강 시 과매도 위험. 고PER 부담,1
+005380,현대차,KRX,HOLD,150,195000,KRW,0.08,글로벌 EV 전환기 현금흐름 안정. 저PBR·배당 성장,EV 전환 속도 둔화 시 프리미엄 소멸. 환율 역풍,2
+105560,KB금융,KRX,HOLD,300,68000,KRW,0.08,밸류업 정책 최대 수혜. 배당 성장 + 자사주 환원 지속,금리 하강기 NIM 압박. 부동산 PF 리스크,2
+055550,신한지주,KRX,HOLD,350,44500,KRW,0.06,ROE 개선 추세. 글로벌 사업 다각화. 배당 안정성,동남아 익스포저 환율 리스크. 경기 둔화 시 충당금,3
+012450,한화에어로스페이스,KRX,HOLD,80,285000,KRW,0.07,K-방산 수출 수주 급증. 우주·엔진 사업 장기 성장,수출 계약 지연·취소 리스크. 밸류에이션 고평가 구간,2
+BRK.B,Berkshire Hathaway B,NYSE,HOLD,95,360.5,USD,0.10,버핏 포트폴리오 방어력. 대규모 현금 보유로 기회 포착,저성장기 초과수익 제한. 후계자 불확실성,1
+JPM,JPMorgan Chase,NYSE,HOLD,60,185.2,USD,0.08,미국 최대 은행. 금리 인하 후에도 NIM 방어력 우수. 배당 성장,경기침체 시 신용 손실 확대. 규제 리스크,2
+UNH,UnitedHealth Group,NYSE,HOLD,25,510.0,USD,0.07,헬스케어 수직 계열화. Optum 마진 확장. 방어적 FCF,메디케어 정책 리스크. 의료비 인플레이션,2
+CVX,Chevron,NYSE,HOLD,70,152.8,USD,0.07,FCF 강도 최상위. 배당 35년 연속 성장. 에너지 전환 내 현금소. 줄 기반,유가 $60 하단 붕괴 시 FCF 급감. 환경 규제,3
+GOOGL,Alphabet,NYSE,HOLD,40,168.0,USD,0.06,검색·클라우드 지배력. AI 투자 대비 밸류에이션 아직 합리적,AI 검색 대체 위협. 규제·반독점 소송,2
+CASH,현금(KRW+USD),,CASH,,,KRW+USD,0.11,유동성 확보 및 기회 대응 자금,,1

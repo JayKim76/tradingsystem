@@ -1,0 +1,9 @@
+.DS_Store
+._*
+.claude/settings.local.json
+config/secrets.env
+logs/*.log
+reports/daily/*
+!reports/daily/.gitkeep
+reports/weekly/*
+!reports/weekly/.gitkeep
